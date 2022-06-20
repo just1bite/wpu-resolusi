@@ -1,0 +1,2 @@
+membuat aplikasi yang bisa menghubungkan management dan driver
+membuat aplikasi rutin
